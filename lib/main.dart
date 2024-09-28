@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
           
           appBar: AppBar(
             backgroundColor: Colors.yellow[100],
-            title: const Text('MI-CARD LAYOUT APP'),
+            title: const Text('MI-CARD LAYOUT'),
           ),
 
           //SINGLE CHILD LAYOUT WIDGET
